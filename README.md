@@ -31,6 +31,5 @@ Username : admin
 Password : 12345678
 ```
 
-# HTML Template
-
+# HTML Template Courtesy of the below folks. Heartful thanks to them.
 https://colorlib.com/etc/fashe/index.html
